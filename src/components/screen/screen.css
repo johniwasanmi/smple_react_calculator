@@ -1,0 +1,22 @@
+#screen {
+  width: 95%;
+  height: 50px;
+  margin-left: 20px;
+  border: solid 2px rgb(173, 171, 171);
+  box-shadow: inset 0px 4px 10px rgba(0, 0, 0, 0.2),
+    0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  display: flex;
+}
+
+#input_screen {
+  border-radius: 10px;
+  width: 90%;
+  align-self: center;
+  margin-left: 30px;
+  height: 80%;
+  background-color: rgb(154, 146, 161);
+  color: rgb(3, 43, 90);
+  font-weight: bold;
+  font-size: 30px;
+}
